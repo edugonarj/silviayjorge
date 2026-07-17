@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boda Eduardo y Monica//ES
+BEGIN:VEVENT
+DTSTART:20261114T113000Z
+DTEND:20261114T223000Z
+SUMMARY:Boda Eduardo & Mónica
+LOCATION:Iglesia del Espíritu Santo, C. de Serrano 125, Madrid
+DESCRIPTION:Ceremonia 12:30 en Iglesia del Espíritu Santo. Celebración en Finca El Albero.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Boda Eduardo & Mónica en 7 días
+END:VALARM
+END:VEVENT
+END:VCALENDAR
