@@ -1,16 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Boda Eduardo y Monica//ES
+PRODID:-//Boda Jorge y Silvia//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART:20261114T113000Z
-DTEND:20261114T223000Z
-SUMMARY:Boda Eduardo & Mónica
-LOCATION:Iglesia del Espíritu Santo, C. de Serrano 125, Madrid
-DESCRIPTION:Ceremonia 12:30 en Iglesia del Espíritu Santo. Celebración en Finca El Albero.
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Boda Eduardo & Mónica en 7 días
-END:VALARM
+UID:boda-jorge-silvia-20261024@silviayjorge
+DTSTAMP:20260717T120000Z
+DTSTART:20261024T103000Z
+DTEND:20261024T213000Z
+SUMMARY:Boda Jorge & Silvia
+DESCRIPTION:Ceremonia 12:30 en la Iglesia de San Alberto de Sicilia. Celebración en la Hacienda de Xenis\, Chucena.
+LOCATION:Iglesia de San Alberto de Sicilia\, C. Manuel Rojas Marcos\, Casco Antiguo\, 41004 Sevilla
 END:VEVENT
 END:VCALENDAR
